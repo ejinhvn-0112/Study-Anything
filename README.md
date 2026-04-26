@@ -4,9 +4,10 @@
 공부하다가 막히거나, 모르는 것, 또는 현재 private 레포에서 개발하다가 막힌 이슈들을 모두 등록합니다.
 
 ### 현재 개발하고 있는 레포지토리 바로가기
-- [BodyCarePal - 아이폰](https://github.com/ejinhvn-0112/BodyCarePal)
-- [BodyCarePal - OPENAPI](https://github.com/ejinhvn-0112/BodyCarePal-OPENAPI)
-- [BodyCarePal - APNs](https://github.com/ejinhvn-0112/BodyCarePal-APNs)
+- ~~[BodyCarePal - 아이폰](https://github.com/ejinhvn-0112/BodyCarePal) 개발 취소~~
+- ~~[BodyCarePal - OPENAPI](https://github.com/ejinhvn-0112/BodyCarePal-OPENAPI) 개발 취소~~
+- ~~[BodyCarePal - APNs](https://github.com/ejinhvn-0112/BodyCarePal-APNs) 개발 취소~~
 
+- [WorkoutTracker](https://github.com/ejinhvn-0112/weightlog)
 
 개발 들어간 레포지토리는 위와 같이 공유.
